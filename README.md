@@ -26,5 +26,3 @@ TextDictator is a Python-based application designed to automate the dictation of
 - Voice recognition for interactive control.
 
 ---
-
-This description succinctly outlines the key aspects of the TextDictator project, making it suitable for inclusion in a resume.
